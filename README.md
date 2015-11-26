@@ -1,7 +1,7 @@
-pelican-blueidea
-================
+pfit_theme
+==========
+A theme for Pelican, based on [pelican-blueidea](https://github.com/blueicefield/pelican-blueidea) by blueicefield.
 
-A theme for Pelican inspired by the default theme notmyidea.
 
 Features
 --------
