@@ -387,7 +387,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 /*
 	Footer
 *****************/
-#contentinfo {text-align: right; font-size: x-small;}
+#contentinfo {text-align: left; font-size: x-small;}
 #contentinfo a {font-weight: bold;}
 
 /***** Sections *****/
