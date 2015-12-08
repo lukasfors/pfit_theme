@@ -489,3 +489,21 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	margin-right: auto;
 }
 
+/* Buy button */
+
+a.buy_button:link,a.buy_button:visited {
+    border: 2px solid #006600;
+    border-radius: 5px;
+    background-color: #009900;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    margin : 20px;
+    padding: 10px 20px 10px 20px;
+    display: inline-block;
+}
+a.buy_button:hover {
+    border: 2px solid #009900;
+    background-color: #00cc00;
+}
+
